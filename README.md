@@ -1,6 +1,8 @@
 # Data for the Challenge "Don’t walk straight into the trap"
 This respository is part of the Zurich hackathon of [Swiss {ai} Week](https://swiss-ai-weeks.ch/) happening on 26/27 September 2025.
 
+This dataset is *not* an official publication of the Swiss FOCBS - it is merely a sample dataset with likely representative labels [`legal`, `illegal`, `permit_or_registration`]
+
 By accessing or using the data provided, you agree to the following terms and conditions.
 ## Terms and Conditions
 > The data is provided solely for the purpose of participating in the hackathon event held in Zurich, Switzerland, and for developing solutions directly related to the specific challenge you have selected. You are strictly prohibited from using the Data for any other purpose, including but not limited to:
